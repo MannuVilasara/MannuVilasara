@@ -22,3 +22,9 @@ const AboutMe = {
     <img src="https://skillicons.dev/icons?i=js,nodejs,css,html,python,discord,typescript,vscode,git" />
   </a>
 </p>
+
+## Discord Profile
+
+<a href="https://discord.com/users/786926252811485186">
+     <img src="https://lanyard.cnrad.dev/api/786926252811485186" width="400" height="200" />
+</a>
