@@ -35,3 +35,16 @@ const AboutMe = {
 <a href="https://discord.com/users/786926252811485186">
      <img src="https://lanyard.cnrad.dev/api/786926252811485186" width="400" height="200" idlemessage= Coding ![coding](https://discord.com/channels/955382196716331059/977888062254231623/1066306520746295306)/>
 </a>
+
+
+<details>
+  <summary>
+    <h2> Github Stats ⚡ </h2>
+  </summary>
+<a href="https://github.com/MannuVilasara">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MannuVilasara&amp;show_icons=true&amp;theme=radical" height="160"  witdh="480" />
+</a>
+<a href="https://github.com/MannuVilasara">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MannuVilasara&theme=vue-dark&sideLabels=EB5454" height="160" witdh="480" />
+</a></details>
+<hr />
