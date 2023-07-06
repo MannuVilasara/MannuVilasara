@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="./waving.gif">, I'm Mannu</h1>
-<h4 align="center">a freelance developer, see my <a href="https://mannuvls.vercel.app" target="_blank">site</a> for more</h4>
+<h4 align="center">a freelance developer, see my <a href="https://dev-mannu.vercel.app" target="_blank">site</a> for more</h4>
 </div>
 
 <div align="center">
