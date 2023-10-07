@@ -1,5 +1,4 @@
 <div align="center"> I'm Mannu</h1>
-<h4 align="center">a freelance developer</h4>
 </div>
 
 <div align="center">
