@@ -1,6 +1,5 @@
 <div align="center"> 
   <h1>I'm Mannu</h1>
-  <img src="https://github.com/MannuVilasara/MannuVilasara/blob/main/waving.gif"
 </div>
 
 <div align="center">
