@@ -9,6 +9,35 @@
 </div>
 
 -----
+```bash
+mannu@archbtw:~$ neofetch
+
+                   .~vVeZNgQBBBQQg9Ze1v~.                   
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 mannu@archbtw
+           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 16 years
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: python3, gcc, node, nasm, 3 others...
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vim, vscode
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: code, exploit dev, linux src
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: git@github.com:MannuVilasara
+a@@@@@@@@@@2                                    v@@@@@@@@@@;    
+#@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
+@@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: dev-mannu.vercel.app
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   HackTheBox: MannuVilasara
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    Github: MannuVilasara
+ ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     device specifications  
+   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      ---------------------
+    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       CPU: Intel i5-4210U (4) @ 2.700GHz
+      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         GPU: GPU: Intel Haswell-ULT
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             
+              "Lf8@@@@v              q@@@#Qa?:                 
+                  -!v|`              _?v!`                     
+```
 <details>
   <summary>☎️ Contact me</summary>
 <div>
@@ -112,50 +141,7 @@
     </samp>
   </div>
 </details> 
-<details open>
-  <summary>😒 random stuff</summary>
-<div>
-<samp>
-<h2 align="center"> just an ascii art </h2>
-</samp>
-</div>
 
-```js
-/*
-              ______
-             |  o o |              ______
-            /    -  (\            |  o o |
-           / /)   (\ \\          /    -  (\
-    ______| | | /) \\ \\        / /)   (\ \\
-   |  o o | | || \ || | |______| | | /) \\ \\
-  /    -  (\\ \\ (/ | | |  o o | | || \ || | |______
- / /)   (\ \\\ \)   (/ /    -  (\\ \\ (/ | | |  o o |
-| | | /) \\ \\)  -    / /)   (\ \\\ \)   (/ /    -  (\
-| | || \ || | |_o_o__| | | /) \\ \\)  -    / /)   (\ \\
- \\ \\ (/ | | |  o o | | || \ || | |_o_o__| | | /) \\ \\
-  \\ \)   (/ /    -  (\\ \\ (/ | | |  o o | | || \ || | |
-   \)  -    / /)   (\ \\\ \)   (/ /    -  (\\ \\ (/ | | |
-    |_o_o__| | | /) \\ \\)  -    / /)   (\ \\\ \)   (/ /
-    |  o o | | || \ || | |_o_o__| | | /) \\ \\)  -    /
-   /    -  (\\ \\ (/ | | |  o o | | || \ || | |_o_o__|
-  / /)   (\ \\\ \)   (/ /    -  (\\ \\ (/ | | |  o o |
- | | | /) \\ \\)  -    / /)   (\ \\\ \)   (/ /    -  (\
- | | || \ || | |_o_o__| | | /) \\ \\)  -    / /)   (\ \\
-  \\ \\ (/ | | |  o o | | || \ || | |_o_o__| | | /) \\ \\
-   \\ \)   (/ /    -  (\\ \\ (/ | | |  o o | | || \ || | |
-    \)  -    / /)   (\ \\\ \)   (/ /    -  (\\ \\ (/ | | |
-     |_o_o__| | | /) \\ \\)  -    / /)   (\ \\\ \)   (/ /
-            | | || \ || | |_o_o__| | | /) \\ \\)  -    /
-             \\ \\ (/ | | |      | | || \ || | |_o_o__|
-    l42       \\ \)   (/ /        \\ \\ (/ | | |
-               \)  -    /          \\ \)   (/ /
-                |_o_o__|            \)  -    /
-                                     |_o_o__|
-*/
-```
-</details>
-<br/>
-</details> 
 
   
  <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E7334&center=true&vCenter=true&width=435&lines=Freelance+embedded+device+developer;have+high+creativity;Able+to+work+in+team+or+individual+" alt="Typing SVG" /></a></p>
