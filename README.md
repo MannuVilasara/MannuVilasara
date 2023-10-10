@@ -5,8 +5,8 @@
 </div>
 
 -----
-```bash
-mannu@archbtw:~$ console
+```console
+mannu@archbtw:~$ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
               `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 mannu@archbtw
