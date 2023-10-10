@@ -10,7 +10,7 @@
 
 -----
 ```bash
-mannu@archbtw:~$ neofetch
+mannu@archbtw:~$ console
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
               `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 mannu@archbtw
@@ -38,26 +38,6 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   HackTheBox: Mannu
               "Lf8@@@@v              q@@@#Qa?:                 
                   -!v|`              _?v!`                     
 ```
-<details>
-  <summary>☎️ Contact me</summary>
-<div>
-  <samp>
-    <h2 align="center">you can reach me by:</h2>
-    <p align="center">
-      <br/>
-      <a href="mailto:mannuvilasara@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://instagram.com/code_x_mannu" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <br>
-    </p>
-  </samp>
-</div>
-</details>
 
 <details>
   <summary>🧮 about</summary>
