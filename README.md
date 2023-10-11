@@ -97,7 +97,6 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Github: MannuVila
 <br/>
   </samp>
   </details>
-  
 
 
 
@@ -107,4 +106,9 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Github: MannuVila
   
 -----
 
-[![Skills](https://skillicons.dev/icons?i=js,html,css,py,neovim,mysql,mongodb,md,linux,flask,git,github,githubactions,bots,discord)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,py,neovim,vscode,mysql,mongodb,md,linux,flask,git,github,githubactions,bots)](https://skillicons.dev)
+
+### Find me here
+[![dev](https://skillicons.dev/icons?i=devto)](https://dev.to/mannu)
+[![insta](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/code_x_mannu/)
+[![dev](https://skillicons.dev/icons?i=discord)](https://discord.gg/misfit-997483421255340092)
