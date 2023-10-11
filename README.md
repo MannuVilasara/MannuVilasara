@@ -98,25 +98,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Github: MannuVila
   </samp>
   </details>
   
-<details>
-  <summary>🌏 global</summary>
-  <br/>
-  <details open>
-  <summary>👷‍♂️ create your own custom badge</summary>
-  <div>
-  <samp>
-    <h2 align="center">u can try using these website for creating your own custom badge</h2>
-    <p align="center">
-      <a href="https://forthebadge.com/generator/" target="blank">
-        <img src="https://forthebadge.com/images/mark.svg" img align="center" height="50"
-        alt="for the badge"/></a>        
-      <a href="https://shields.io/" target="blank">
-        <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg" img align="center" height="50"
-        alt="shields.io"/></a>
-    </p>
-    </samp>
-  </div>
-</details> 
+
 
 
   
@@ -124,3 +106,5 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Github: MannuVila
   
   
 -----
+
+[![Skills](https://skillicons.dev/icons?i=js,html,css,py,neovim,mysql,mongodb,md,linux,flask,git,github,githubactions,bots,discord)](https://skillicons.dev)
