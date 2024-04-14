@@ -6,7 +6,7 @@
 
 -----
 ```console
-mannu@archbtw:~$ neofetch
+mannu@archbtw:~$ humanfetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
               `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 mannu@archbtw
