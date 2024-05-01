@@ -14,13 +14,13 @@ mannu@archbtw:~$ neofetch
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
       _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 17 years
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 1030 (pacman)
-   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/fish
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vim, vscode
  :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:MannuVilasara
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
 #@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
-@@@@@@@@@@@.                                     @@@@@@@@@@%   Website: dev-mannu.vercel.app
+@@@@@@@@@@@.                                     @@@@@@@@@@%   Website: none rn (had but deleted for some reason)
 #@@@@@@@@@@r                                    :@@@@@@@@@@s   HackTheBox: MannuVilasara
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Github: MannuVilasara
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    
