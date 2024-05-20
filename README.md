@@ -20,7 +20,7 @@ mannu@archbtw:~$ neofetch
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
 #@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
-@@@@@@@@@@@.                                     @@@@@@@@@@%   Website: none rn (had but deleted for some reason)
+@@@@@@@@@@@.                                     @@@@@@@@@@%   Website: dev-mannu.vercel.app
 #@@@@@@@@@@r                                    :@@@@@@@@@@s   HackTheBox: MannuVilasara
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Github: MannuVilasara
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    
