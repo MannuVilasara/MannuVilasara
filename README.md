@@ -112,3 +112,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Github: MannuVila
 [![dev](https://skillicons.dev/icons?i=devto)](https://dev.to/mannu)
 [![insta](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/code_x_mannu/)
 [![dev](https://skillicons.dev/icons?i=discord)](https://discord.gg/misfit-997483421255340092)
+
+### Holphin badges
+
+[![An image of @mannuvilasara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mannuvilasara)](https://holopin.io/@mannuvilasara)
