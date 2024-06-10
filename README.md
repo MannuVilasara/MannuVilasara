@@ -20,13 +20,13 @@ mannu@archbtw:~$ neofetch
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
 #@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
-@@@@@@@@@@@.                                     @@@@@@@@@@%   Website: dev-mannu.vercel.app
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   HackTheBox: MannuVilasara
-W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Github: MannuVilasara
-~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    
- ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    device specifications  
-  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     ---------------------
-   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      CPU: Normal Human Brain
+@@@@@@@@@@@.                                     @@@@@@@@@@%   Website:mannuvls.xyz
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: MannuVilasara
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    device specifications 
+ ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    ---------------------  
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     CPU: Normal Human Brain
+   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
     .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.
       x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         
         =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           
