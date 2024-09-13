@@ -14,7 +14,7 @@ mannu@archbtw:~$ neofetch
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
       _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 17 years
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 1030 (pacman)
-   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/fish
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vim, vscode
  :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:MannuVilasara
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
