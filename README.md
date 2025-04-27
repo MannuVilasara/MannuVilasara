@@ -4,6 +4,7 @@
        alt="snake" /></a>
 </div>
 
+
 -----
 ```console
 mannu@archbtw:~$ neofetch
@@ -116,3 +117,4 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 ### Holphin badges
 
 [![An image of @mannuvilasara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mannuvilasara)](https://holopin.io/@mannuvilasara)
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
