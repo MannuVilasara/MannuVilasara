@@ -24,7 +24,7 @@ mannu@archbtw:~$ neofetch
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
 #@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
-@@@@@@@@@@@.                                     @@@@@@@@@@%   Website:mannuv.live
+@@@@@@@@@@@.                                     @@@@@@@@@@%   Website:mannu.live
 #@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: MannuVilasara
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    device specifications
