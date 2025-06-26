@@ -49,7 +49,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
      src="https://komarev.com/ghpvc/?username=MannuVilasara&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   <a href="https://dev-mannu.vercel.app/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25"
+     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fmannu.live" height="25"
      alt="website" /></a>
   </p>
  </samp>
