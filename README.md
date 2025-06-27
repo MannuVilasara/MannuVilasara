@@ -115,7 +115,4 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 [![insta](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dev_mannuu)
 [![dev](https://skillicons.dev/icons?i=discord)](https://discord.com/users/786926252811485186)
 
-### Holphin badges
-
-[![An image of @mannuvilasara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mannuvilasara)](https://holopin.io/@mannuvilasara)
 ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
