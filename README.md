@@ -82,8 +82,8 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/MannuVilasara/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MannuVilasara&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MannuVilasara&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MannuVilasara&show_icons=true&theme=rose_pine&hide_border=true" />
+          <!-- <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MannuVilasara&theme=rose-pine&hide_border=true" /> -->
           </a>
        </p>
      <br>
