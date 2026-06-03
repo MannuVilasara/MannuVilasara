@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/image.png" alt="Profile Banner" />
+  <img src="https://github.com/MannuVilasara/MannuVilasara/blob/main/assets/image.png?raw=true" alt="Profile Banner" />
 </div>
 
 <br />
