@@ -8,7 +8,7 @@
 ---
 - Hi, I'm Manpreet Singh 👋 
 
-- I primarily focuses on **DevOps** and **Backend System Designs**.
+- I primarily focus on **DevOps** and **Backend System Designs**.
 
 ### 🛠️ Skills & Technologies
 ---
