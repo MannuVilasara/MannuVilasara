@@ -28,4 +28,4 @@ Here is a quick rundown of the concepts I've worked over:
 
 <br />
 
-<a href="https://mannu.live" target="_blank">https://mannu.live</a>
+<a href="https://mannu.tech" target="_blank">https://mannu.tech</a>
